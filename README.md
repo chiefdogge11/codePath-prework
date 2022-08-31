@@ -2,7 +2,7 @@
 
 **Name of your app** is a tip calculator application for iOS.
 
-Submitted by: **Derian Ramireze**
+Submitted by: **Derian Ramirez**
 
 Time spent: **2** hours spent in total
 
